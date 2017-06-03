@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Elías Angulo
+Build-Jdk: 1.8.0_112
+Built-By: Elías Angulo
