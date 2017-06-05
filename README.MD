@@ -13,7 +13,7 @@
 	<li>/d[x]</li><p>Rolls a dice with XXX faces.</p>
 	<li>/r[x]</li><p>Rolls a red dice. Red dices have 6 faces, THREE of them are zeroes, and the rest are 1, 2, and 3.</p>
 	<li>/b[x]</li><p>Rolls a white dice. White dices have 6 faces, TWO of them are zeroes, and the rest are 1, and 2.</p>
-<ul>
+</ul>
 <b>Rolls can have a bonus (i.e +1, +2, or even a malus, -1, -2, ...) appended to the string.</b> 
 
 <b>Javascript Engine</b>
